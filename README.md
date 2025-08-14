@@ -21,4 +21,4 @@
 - Considerations for deploying a model in real-world scenarios.
 
 This task helped me understand the final step of an ML pipeline—using a model to make actionable predictions.  
-Feel free to check out the notebook and suggest improvements!
+
