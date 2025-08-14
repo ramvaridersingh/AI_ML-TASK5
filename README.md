@@ -1,12 +1,4 @@
-# AI_ML-TASK_5
 # Task 5: Model Deployment and Prediction
-
-This notebook is part of my AI & ML internship.  
-In this task, I focused on using a trained machine learning model to make predictions and demonstrate how it can be applied to new data.
-
-## Dataset Used
-- [Specify dataset name here, e.g., Titanic, Iris, etc.]
-- Provide dataset source if available (Kaggle, UCI, etc.)
 
 ## Tools & Libraries
 - Python
